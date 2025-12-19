@@ -66,4 +66,5 @@ guyss, its a simple 65% layout keyboard with 65 mechanical keys
 **INDIA IS GODDAMMED EXPENSIVE MAN**
 
 **Total Estimated Cost**: `$80 WITH SHIPPING CHARGES INCLUDED`
-I'm some of the components i'm only asking for the components i dont have
+
+I'm some of the components thats why i'm only asking for the components i dont have
