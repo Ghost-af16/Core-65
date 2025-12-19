@@ -1,50 +1,69 @@
-# Hackpad
-Yo Boizzz , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical] with 4x EC11 Rotary Encoders And 1x OLED Diplay...
+# Core-65
+guyss, its a simple 65% layout keyboard with 65 mechanical keys
 
 # FEATURES 
 1->> Full Of Functionable Keys 6 </n>
 
-2->> Rotary Encoders { Cool Scrolllss }</n>
-
-3->> Fully Customizable { Modify The Code For Ur Own Functioning }</n>
+2->> Fully Customizable { Modify The Code For Ur Own Functioning }</n>
 
 
 # IMAGESSS
 
-<img width="986" height="862" alt="Screenshot 2025-10-22 230443" src="https://github.com/user-attachments/assets/26106e90-c902-4783-8851-2422d3a5a242" />
+<img width="1908" height="1051" alt="Screenshot 2025-12-18 214614" src="https://github.com/user-attachments/assets/01552b66-097e-43a6-90b4-82a15c0ae9c5" />
 
-<img width="807" height="829" alt="Screenshot 2025-10-22 231755" src="https://github.com/user-attachments/assets/4e811a71-987a-4906-8738-4155bfbe66ed" />
+<img width="1912" height="1024" alt="Screenshot 2025-12-18 214848" src="https://github.com/user-attachments/assets/a6b7e88c-b11a-42d7-8474-e44ceb83ff5d" />
 
-<img width="773" height="751" alt="Screenshot 2025-10-22 231843" src="https://github.com/user-attachments/assets/edf1e50f-4658-4e19-a7d6-b6b15557acf6" />
+<img width="1912" height="1068" alt="Screenshot 2025-12-18 214639" src="https://github.com/user-attachments/assets/134d6685-9206-41e2-adc2-6b3d3d9e96c5" />
 
-<img width="675" height="815" alt="Screenshot 2025-10-22 231907" src="https://github.com/user-attachments/assets/1d8c3563-9bdc-45c8-8d94-01d6a0f554b6" />
+<img width="1902" height="1049" alt="Screenshot 2025-12-18 214657" src="https://github.com/user-attachments/assets/1aadedfe-7cf4-4963-8210-cb3eb683909c" />
 
-<img width="682" height="562" alt="Screenshot 2025-10-22 230610" src="https://github.com/user-attachments/assets/8390bc88-ed95-4cdf-9903-37b4f2b58c35" />
+<img width="1727" height="871" alt="Screenshot 2025-12-18 214950" src="https://github.com/user-attachments/assets/187c0c98-604c-4ccc-b96c-e9921365952a" />
 
-<img width="553" height="690" alt="Screenshot 2025-10-22 230935" src="https://github.com/user-attachments/assets/9cbbf6a4-dcf8-44b5-8ffa-f949ab1d7751" />
-
-<img width="1573" height="897" alt="Assembly 2" src="https://github.com/user-attachments/assets/8a5f8274-9081-4793-93e2-a2e2a4d51f2c" />
-
-
-<img width="1572" height="900" alt="Assembly" src="https://github.com/user-attachments/assets/720bde78-4a93-4030-8b59-8fe0d81453d6" />
+<img width="1802" height="960" alt="Screenshot 2025-12-18 215001" src="https://github.com/user-attachments/assets/e9a1ea8a-c858-489b-8e4b-f0e41e91d7f8" />
 
 
 
-# 📋 Bill of Materials (BOM)
+#  Bill of Materials (BOM)
 
 | Component | Quantity | Specification | Unit Price | Total Price |
 
-| **PCB** | 5 | Custom macropad (5x4 matrix) | $5 with shipping | $5 with shipping 
+| **PCB** | 5 | custom pcb | $20 with shipping | $20 with shipping 
+
+| **ATMEGA32U4-MU** | 1 | Microchip | $6 with shipping | $6 with shipping 
+
+| **Crystal** | 1 |16 MHz | $2 with shipping | $2 with shipping 
+
+| **Capacitor** | 2 |22 pF | $1 with shipping | $1 with shipping 
+
+| **USB-C Receptacle** |1| USB | $6 with shipping |  $6 with shipping
+
+| **Resistor** |1| 5.1 kΩ | $2 with shipping |  $2 with shipping
+
+| **Resistor** |1|22kΩ | $2 with shipping |  $2 with shipping
+
+| **Capacitor** |1|10 µF | $2 with shipping |  $2 with shipping
+
+| **Capacitor** |1| 1 µF | $1 with shipping |  $1 with shipping
+
+| **Capacitor** |6|0.1 µF | $2 with shipping |  $2 with shipping
+
+| **Ferrite Bead** |1|600 Ω 100 MHz | $0.50 with shipping |  $0.50 with shipping
+
+| **Key Switch** |68| Crystal Pro Switch| $33 with shipping |  $33 with shipping
+
+| **3D printed case** |1| 3d printed|Printing legion |  Printing legion
+
 
 
 ## JLCPCB
-<img width="1881" height="954" alt="image" src="https://github.com/user-attachments/assets/62cabfa8-10d0-4c81-ba16-39f72b64990b" />
+<img width="1899" height="1051" alt="Screenshot 2025-12-19 003934" src="https://github.com/user-attachments/assets/f03d4b46-e888-415b-8a23-aaa6ca7bb31d" />
 
 
 
 
 
-**IDK WHY EVERYTHING IS SO EXPENSIVE IN INDIA**
 
-**Total Estimated Cost**: `$5 WITH SHIPPING CHARGES INCLUDED`
-I'm only asking for pcb cost as you guys said.
+**INDIA IS GODDAMMED EXPENSIVE MAN**
+
+**Total Estimated Cost**: `$80 WITH SHIPPING CHARGES INCLUDED`
+I'm some of the components i'm only asking for the components i dont have
