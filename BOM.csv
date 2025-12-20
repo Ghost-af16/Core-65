@@ -1,29 +1,17 @@
-#  Bill of Materials (BOM)
+Bill of Materials (BOM)
 
 | Component | Quantity | Specification | Unit Price | Total Price |
-
-| **PCB** | 5 | custom pcb | $20 with shipping | $20 with shipping 
-
-| **ATMEGA32U4-MU** | 1 | Microchip | $6 with shipping | $6 with shipping 
-
-| **Crystal** | 1 |16 MHz | $2 with shipping | $2 with shipping 
-
-| **Capacitor** | 2 |22 pF | $1 with shipping | $1 with shipping 
-
-| **USB-C Receptacle** |1| USB | $6 with shipping |  $6 with shipping
-
-| **Resistor** |1| 5.1 kΩ | $2 with shipping |  $2 with shipping
-
-| **Resistor** |1|22kΩ | $2 with shipping |  $2 with shipping
-
-| **Capacitor** |1|10 µF | $2 with shipping |  $2 with shipping
-
-| **Capacitor** |1| 1 µF | $1 with shipping |  $1 with shipping
-
-| **Capacitor** |6|0.1 µF | $2 with shipping |  $2 with shipping
-
-| **Ferrite Bead** |1|600 Ω 100 MHz | $0.50 with shipping |  $0.50 with shipping
-
-| **Key Switch** |68| Crystal Pro Switch| $33 with shipping |  $33 with shipping
-
-| **3D printed case** |1| 3d printed|Printing legion |  Printing legion
+|----------|----------|---------------|------------|-------------|
+| PCB | 5 | Custom PCB | $20 with shipping | $20 with shipping |
+| ATMEGA32U4-MU | 1 | Microchip MCU | $6 with shipping | $6 with shipping |
+| Crystal | 1 | 16 MHz | $2 with shipping | $2 with shipping |
+| Capacitor | 2 | 22 pF | $1 with shipping | $1 with shipping |
+| USB-C Receptacle | 1 | USB Type-C | $6 with shipping | $6 with shipping |
+| Resistor | 1 | 5.1 kΩ | $2 with shipping | $2 with shipping |
+| Resistor | 1 | 22 kΩ | $2 with shipping | $2 with shipping |
+| Capacitor | 1 | 10 µF | $2 with shipping | $2 with shipping |
+| Capacitor | 1 | 1 µF | $1 with shipping | $1 with shipping |
+| Capacitor | 6 | 0.1 µF (100 nF) | $2 with shipping | $2 with shipping |
+| Ferrite Bead | 1 | 600 Ω @ 100 MHz | $0.50 with shipping | $0.50 with shipping |
+| Key Switch | 68 | Crystal Pro Switch | $33 with shipping | $33 with shipping |
+| 3D Printed Case | 1 | Custom 3D Printed Case | Printing Legion | Printing Legion |
