@@ -39,6 +39,7 @@ Bill of Materials (BOM)
 | Capacitor | 6 | 0.1 µF (100 nF) | $2 with shipping | $2 with shipping |
 | Ferrite Bead | 1 | 600 Ω @ 100 MHz | $0.50 with shipping | $0.50 with shipping |
 | Key Switch | 68 | Crystal Pro Switch | $33 with shipping | $33 with shipping |
+| Key caps | 68 | Blank white cherry | $13 with shipping | $13 with shipping |
 | Type c cable | 1 | Type c cable | $7 with shipping | $7 with shipping |
 | 3D Printed Case | 1 | Custom 3D Printed Case | Printing Legion | Printing Legion |
 
