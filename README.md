@@ -40,7 +40,7 @@ Bill of Materials (BOM)
 | USB-C Receptacle | 1 | USB Type-C | $5 with shipping | $6 with shipping |
 | Resistor | 1 | 5.1 kΩ | $0.50 with shipping | $1 with shipping |
 | Resistor | 1 | 22 kΩ | $2 with shipping | $2 with shipping |
-| Capacitor | 1 | 10 µF | $2 with shipping | $2 with shipping |
+| Capacitor | 1 | 10 µF | $0.50 with shipping | $1 with shipping |
 | Capacitor | 1 | 1 µF | $0.25 with shipping | $1 with shipping |
 | Capacitor | 6 | 0.1 µF (100 nF) | $1 with shipping | $2 with shipping |
 | Ferrite Bead | 1 | 600 Ω @ 100 MHz | $0.01 with shipping | $0.50 with shipping |
