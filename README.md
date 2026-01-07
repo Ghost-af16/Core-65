@@ -60,6 +60,6 @@ Bill of Materials (BOM)
 
 **INDIA IS GODDAMMED EXPENSIVE MAN**
 
-**Total Estimated Cost**: `$80 WITH SHIPPING CHARGES INCLUDED`
+**Total Estimated Cost**: `$95 WITH SHIPPING CHARGES INCLUDED`
 
 I'm some of the components thats why i'm only asking for the components i dont have
