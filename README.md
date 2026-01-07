@@ -21,6 +21,12 @@ guyss, its a simple 65% layout keyboard with 65 mechanical keys
 
 <img width="1802" height="960" alt="Screenshot 2025-12-18 215001" src="https://github.com/user-attachments/assets/e9a1ea8a-c858-489b-8e4b-f0e41e91d7f8" />
 
+<img width="1900" height="983" alt="Screenshot 2026-01-07 133800" src="https://github.com/user-attachments/assets/dca912f5-3e3b-4816-af9a-dd59c02bb46d" />
+
+<img width="1899" height="1003" alt="Screenshot 2026-01-07 133913" src="https://github.com/user-attachments/assets/c566b8e7-1271-4100-a903-5593e885ced4" />
+
+
+
 
 
 Bill of Materials (BOM)
