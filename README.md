@@ -29,15 +29,15 @@ Bill of Materials (BOM)
 |----------|----------|---------------|------------|-------------|
 | PCB | 5 | Custom PCB | $20 with shipping | $20 with shipping |
 | ATMEGA32U4-MU | 1 | Microchip MCU | $6 with shipping | $6 with shipping |
-| Crystal | 1 | 16 MHz | $2 with shipping | $2 with shipping |
+| Crystal | 1 | 16 MHz | $1 with shipping | $1 with shipping |
 | Capacitor | 2 | 22 pF | $1 with shipping | $1 with shipping |
-| USB-C Receptacle | 1 | USB Type-C | $6 with shipping | $6 with shipping |
-| Resistor | 1 | 5.1 kΩ | $2 with shipping | $2 with shipping |
+| USB-C Receptacle | 1 | USB Type-C | $5 with shipping | $6 with shipping |
+| Resistor | 1 | 5.1 kΩ | $0.50 with shipping | $1 with shipping |
 | Resistor | 1 | 22 kΩ | $2 with shipping | $2 with shipping |
 | Capacitor | 1 | 10 µF | $2 with shipping | $2 with shipping |
-| Capacitor | 1 | 1 µF | $1 with shipping | $1 with shipping |
-| Capacitor | 6 | 0.1 µF (100 nF) | $2 with shipping | $2 with shipping |
-| Ferrite Bead | 1 | 600 Ω @ 100 MHz | $0.50 with shipping | $0.50 with shipping |
+| Capacitor | 1 | 1 µF | $0.25 with shipping | $1 with shipping |
+| Capacitor | 6 | 0.1 µF (100 nF) | $1 with shipping | $2 with shipping |
+| Ferrite Bead | 1 | 600 Ω @ 100 MHz | $0.01 with shipping | $0.50 with shipping |
 | Key Switch | 68 | Crystal Pro Switch | $33 with shipping | $33 with shipping |
 | Key caps | 68 | Blank white cherry | $13 with shipping | $13 with shipping |
 | Type c cable | 1 | Type c cable | $7 with shipping | $7 with shipping |
