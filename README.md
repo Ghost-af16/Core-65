@@ -11,7 +11,7 @@ guyss, its a simple 65% layout keyboard with 65 mechanical keys
 
 <img width="1908" height="1051" alt="Screenshot 2025-12-18 214614" src="https://github.com/user-attachments/assets/01552b66-097e-43a6-90b4-82a15c0ae9c5" />
 
-<img width="1912" height="1024" alt="Screenshot 2025-12-18 214848" src="https://github.com/user-attachments/assets/a6b7e88c-b11a-42d7-8474-e44ceb83ff5d" />
+<img width="1912" height="1024" alt="Screenshot 2025-12-18 214848" src="https://github.com/user-attachments/assets/6d59e83c-82d5-4425-bfc5-0628d07b14e8" />
 
 <img width="1892" height="1037" alt="image" src="https://github.com/user-attachments/assets/c263782d-5eab-493d-a157-4079adffb89d" />
 
